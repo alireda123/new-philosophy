@@ -1,0 +1,46 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "The reality of philosophy",
+      "topic": "Philosophy",
+      "author": "Me",
+      "content": "Historically, philosophy encompassed all bodies of knowledge and a practitioner was known as a philosopher.[14] From the time of Ancient Greek philosopher Aristotle to the 19th century, natural philosophy encompassed astronomy, medicine, and physics.[15] For example, Newton's 1687 Mathematical Principles of Natural Philosophy later became classified as a book of physics."
+    },
+    {
+      "id": 2,
+      "title": "Ethics in our world",
+      "topic": "Ethics",
+      "author": "me",
+      "content": "Historically, philosophy encompassed all bodies of knowledge and a practitioner was known as a philosopher.[14] From the time of Ancient Greek philosopher Aristotle to the 19th century, natural philosophy encompassed astronomy, medicine, and physics.[15] For example, Newton's 1687 Mathematical Principles of Natural Philosophy later became classified as a book of physics."
+    },
+    {
+      "title": "what is ethics",
+      "content": "Ethics is the study of morality.",
+      "topic": "Ethics",
+      "author": "Ali Reda",
+      "id": 4
+    },
+    {
+      "title": "Buddshist poetry",
+      "content": "Buddhism (/ˈbʊdɪzəm/, US: /ˈbuːd-/)[1][2] is a widespread Asian religion or philosophical tradition based on a series of original teachings attributed to Gautama Buddha.[3] It originated in ancient India as a Sramana tradition sometime between the 6th and 4th centuries BCE, spreading through much of Asia. It is the world's fourth-largest religion[4][5] with over 520 million followers, or over 7% of the global population, known as Buddhists.[6][7] Buddhism encompasses a variety of traditions, teachings, beliefs and spiritual practices largely based on the Buddha's teachings (born Siddhārtha Gautama in the 5th or 4th century BCE) and resulting interpreted philosophies.\n\nAs expressed in the Buddha's Four Noble Truths, the goal of Buddhism is to overcome suffering (duḥkha) caused by desire and ignorance of reality's true nature, including impermanence (anicca) and the non-existence of the self (anattā).[8] Most Buddhist traditions emphasize transcending the individual self through the attainment of Nirvana or by following the path of Buddhahood, ending the cycle of death and rebirth.[9][10][11] Buddhist schools vary in their interpretation of the path to liberation, the relative importance and canonicity assigned to the various Buddhist texts, and their specific teachings and practices.[12][13] Widely observed practices include meditation, observance of moral precepts, monasticism, taking refuge in the Buddha, the Dharma and the Sangha, and the cultivation of the Paramitas (perfections, or virtues).[14]\n\nTwo major extant branches of Buddhism are generally recognized by scholars: Theravāda (Pali: \"The School of the Elders\") and Mahāyāna (Sanskrit: \"The Great Vehicle\"). Theravada has a widespread following in Sri Lanka and Southeast Asia such as Cambodia, Laos, Myanmar and Thailand. Mahayana, which includes the traditions of Zen, Pure Land, Nichiren Buddhism, Tiantai Buddhism (Tendai), and Shingon, is practiced prominently in Nepal, Malaysia, Bhutan, China, Japan, Korea, Vietnam, and Taiwan. Vajrayana, a body of teachings attributed to Indian adepts, may be viewed as a separate branch or as an aspect of Mahayana Buddhism.[15] Tibetan Buddhism, which preserves the Vajrayana teachings of eighth-century India, is practised in the countries of the Himalayan region, Mongolia,[16] and Kalmykia.[17] Historically, until the early 2nd millennium, Buddhism was also widely practised in Afghanistan and it also had a foothold to some extent in other places including the Philippines, the Maldives, and Uzbekistan.",
+      "topic": "Buddhism",
+      "author": "Mr Smith",
+      "id": 5
+    },
+    {
+      "title": "Give me rent!",
+      "content": "rivers are cool and ",
+      "topic": "Buddhism",
+      "author": "river ",
+      "id": 6
+    },
+    {
+      "title": "",
+      "content": "Christianity is a religion that was ",
+      "topic": "Christianity",
+      "author": "Ali ",
+      "id": 7
+    }
+  ]
+}
